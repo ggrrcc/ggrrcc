@@ -1,4 +1,4 @@
-## Hi there 👋
+## Please refer to (my website)[ggrrcc.github.io] for a nicer viewing experience.
 
 <!--
 **ggrrcc/ggrrcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
