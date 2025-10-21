@@ -1,4 +1,4 @@
-## Please refer to [my website](ggrrcc.github.io) for a nicer viewing experience.
+## Please refer to [my website](ggrrcc.github.io) for a nicer viewing experience of my repos and more info about me!
 
 <!--
 **ggrrcc/ggrrcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
